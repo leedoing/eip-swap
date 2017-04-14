@@ -41,7 +41,7 @@
 {
         "eip" : "13.124.48.32", //CheckEIP
         "port" : "8080", //CheckTCPPort
-        "ec2Ids" : ["i-0a62787523bb4cdf1", //EC2InstanceIDs
+        "ec2Ids" : ["i-0a62787523bb4cdf1", //InstanceIDs
                     "i-0e57c7b10e4137a6d"],
         "threshold" : 3
 }
