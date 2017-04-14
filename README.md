@@ -39,9 +39,9 @@
 ##Config
 ```json
 {
-        "eip" : "13.124.48.32", //Check EIP
-        "port" : "8080", //Check TCP Port
-        "ec2Ids" : ["i-0a62787523bb4cdf1", //EC2 Instance IDs
+        "eip" : "13.124.48.32", //CheckEIP
+        "port" : "8080", //CheckTCPPort
+        "ec2Ids" : ["i-0a62787523bb4cdf1", //EC2InstanceIDs
                     "i-0e57c7b10e4137a6d"],
         "threshold" : 3
 }
