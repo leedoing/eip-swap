@@ -39,7 +39,7 @@
 ##Config
 ```json
 {
-        "eip" : "13.124.48.32", //Elastic IP
+        "eip" : "13.124.48.32", //Check EIP
         "port" : "8080", //Check TCP Port
         "ec2Ids" : ["i-0a62787523bb4cdf1", //EC2 Instance IDs
                     "i-0e57c7b10e4137a6d"],
