@@ -49,3 +49,4 @@
 ```
 
 ##Upload Zip file to Lambda
+##Add trigger cloudWatch Event - Schedule (rate 1,.., 15min)
