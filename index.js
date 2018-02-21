@@ -42,8 +42,6 @@ const ec2AssociateAddress = (allId, ec2Ids, ec2Id) => {
                 else     console.log(data);           // successful response
                 });
 }
-
-exports.handler = (event, context, callback) => {
 waterfall(
 	 [
                 function(callback){
@@ -75,5 +73,3 @@ waterfall(
                 else console.log(result);
         }
 )
-	callback(null, "Success");
-};
